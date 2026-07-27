@@ -1,0 +1,82 @@
+[
+  {
+    "id": "1",
+    "title": "One Piece",
+    "description": "Monkey D. Luffy refuse de laisser quoi que ce soit entraver sa quête pour devenir le roi de tous les pirates. Avec un cap tracé pour les eaux périlleuses de Grand Line, c'est un capitaine qui n'abandonnera jamais avant d'avoir mis la main sur le plus grand trésor de la terre : le légendaire One Piece !",
+    "imageUrl": "assets/images/one_piece.jpg",
+    "rating": 9.2,
+    "genre": "Action/Aventure"
+  },
+  {
+    "id": "2",
+    "title": "Naruto",
+    "description": "Naruto Uzumaki est un jeune ninja qui porte en lui un démon renard à neuf queues. Rejeté par les siens, il fait tout pour obtenir la reconnaissance de son village et atteindre son rêve ultime : devenir Hokage, le chef et le plus puissant guerrier de Konoha.",
+    "imageUrl": "assets/images/naruto.jpg",
+    "rating": 8.7,
+    "genre": "Action/Aventure"
+  },
+  {
+    "id": "3",
+    "title": "Attack on Titan",
+    "description": "Dans un monde ravagé par des titans mangeurs d'hommes depuis plus d'un siècle, les rares survivants de l'humanité n'ont d'autre choix pour survivre que de se barricader dans une cité-forteresse. Le jeune Eren Jäger jure d'exterminer jusqu'au dernier des titans après avoir vu sa mère se faire dévorer.",
+    "imageUrl": "assets/images/aot.jpg",
+    "rating": 9.5,
+    "genre": "Drame/Action"
+  },
+  {
+    "id": "4",
+    "title": "Fullmetal Alchemist: Brotherhood",
+    "description": "Les frères Edward et Alphonse Elric parcourent le pays à la recherche de la pierre philosophale. Leur but est de retrouver leurs corps originaux après une tentative tragique et interdite de ramener leur mère à la vie par l'alchimie.",
+    "imageUrl": "assets/images/fma.jpg",
+    "rating": 9.3,
+    "genre": "Aventure/Fantaisie"
+  },
+  {
+    "id": "5",
+    "title": "Death Note",
+    "description": "Light Yagami est un lycéen brillant qui découvre un carnet aux pouvoirs surnaturels. S'il y inscrit le nom de quelqu'un, cette personne meurt. Light décide alors d'utiliser ce pouvoir pour purger le monde des criminels, sous le pseudonyme de Kira, déclenchant une lutte psychologique intense avec le détective L.",
+    "imageUrl": "assets/images/death_note.jpg",
+    "rating": 9.0,
+    "genre": "Thriller/Mystère"
+  },
+  {
+    "id": "6",
+    "title": "Demon Slayer",
+    "description": "Le Japon de l'ère Taisho. Tanjirô, un jeune vendeur de charbon, voit sa vie basculer le jour où sa famille est massacrée par un démon. Sa seule sœur survivante, Nezuko, a été transformée en démon. Tanjirô décide de devenir un tueur de démons pour venger sa famille et rendre son humanité à sa sœur.",
+    "imageUrl": "assets/images/demon_slayer.jpg",
+    "rating": 8.9,
+    "genre": "Action/Fantaisie"
+  },
+  {
+    "id": "7",
+    "title": "Jujutsu Kaisen",
+    "description": "Yuji Itadori, un lycéen doté d'une force physique hors du commun, voit sa vie changer le jour où il consomme une relique maudite : le doigt du puissant démon Ryomen Sukuna. Il intègre alors l'école d'exorcisme de Tokyo pour combattre les Fléaux nés des émotions négatives des humains.",
+    "imageUrl": "assets/images/jujutsu_kaisen.jpg",
+    "rating": 8.8,
+    "genre": "Action/Surnaturel"
+  },
+  {
+    "id": "8",
+    "title": "Hunter x Hunter",
+    "description": "Gon Freecss est un jeune garçon qui rêve de devenir un Hunter pour retrouver son père, un Hunter légendaire qui l'a abandonné. Au cours de son périple, il rencontre Kirua, Kurapika et Leolio, avec qui il affrontera des épreuves redoutables au-delà de l'imaginaire.",
+    "imageUrl": "assets/images/hxh.jpg",
+    "rating": 9.1,
+    "genre": "Aventure/Action"
+  },
+  {
+    "id": "9",
+    "title": "My Hero Academia",
+    "description": "Dans un monde où 80 % de la population possède des super-pouvoirs nommés 'Alters', Izuku Midoriya en est dépourvu. Pourtant, son destin bascule lorsqu'il rencontre son idole, All Might, qui lui transmet son propre pouvoir, lui ouvrant les portes de la prestigieuse académie de super-héros Yuei.",
+    "imageUrl": "assets/images/mha.jpg",
+    "rating": 8.5,
+    "genre": "Super-héros/Action"
+  },
+  {
+    "id": "10",
+    "title": "Dragon Ball Z",
+    "description": "Cinq ans après son mariage, Son Goku vit paisiblement. Mais la terre est menacée par des guerriers de l'espace surpuissants. Goku découvre ses origines extraterrestres et doit protéger l'humanité contre des ennemis de plus en plus forts, au prix de combats épiques.",
+    "imageUrl": "assets/images/dbz.jpg",
+    "rating": 8.8,
+    "genre": "Action/Aventure"
+  }
+]
